@@ -17,7 +17,7 @@ export default function Navigation() {
     {/* ======= Header ======= */}
     <header id="header" className="fixed-top">
     <div className="container d-flex align-items-center justify-content-between">
-    <a href="index.html" className="logo"><img src={logo} alt="" className="img-fluid" /></a>
+    <a href="/" className="logo"><img src={logo} alt="" className="img-fluid" /></a>
 
    
     <Navbar id="navbar" className="navbar"  expand="lg">
